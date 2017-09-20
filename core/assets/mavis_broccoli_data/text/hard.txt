@@ -1,0 +1,40 @@
+SOME of the phenomena of electricity are manifested upon so large a scale as to be thrust upon the attention of everybody.
+Thus lightning, which accompanies so many showers in warm weather in almost every latitude, has always excited in some individuals a superstitious awe, as being an exhibition of supernatural agency; and probably every one feels more or less dread of it during a thunder-shower, and this for the reason that it affects so many of the senses at the same time.
+The flash may be blinding to the eyes if near to us; the thunder may be deafening to the ears, and so powerful as to shake the foundations of the hills, and make the ground upon which we stand to sensibly move: these with the remembered destructive effects that have been witnessed, of buildings demolished and large trees torn to splinters in an instant, are quite sufficient to raise a feeling of dread in the strongest mind.
+In the polar regions, both north and south, where thunder-storms are less frequent, the atmospheric electricity assumes the form called the aurora borealis, or the aurora australis, according as it is seen north or south of the equator.
+More than two thousand years ago it was noticed by the Greeks that a certain kind of a mineral which was thrown up on the shores of the Mediterranean Sea, when rubbed would attract light bodies, such as shreds of silk or linen and bits of paper.
+To this substance they gave the name of Elektron, and the property developed thus by friction was afterwards called electricity.
+In 1600 Dr. Gilbert, physician to Queen Elizabeth, published a book in which he described numerous experiments demonstrating that electricity could be developed by friction upon a great variety of substances, such as stones, gems, and resins.
+The first machine for developing electricity was made by Otto von Guericke of Magdeburg, about 1680.
+His machine consisted of a ball of sulphur about six inches in diameter, which could be rotated.
+If the dry hand were held against the sulphur while it was being turned in a dark room, the sphere appeared to emit light: it also gave out a peculiar hissing or crackling sound.
+Newton experimented a little with electricity, and noticed that the rubber was an important element in developing electricity.
+He does not seem to have given to the subject the same attention that he gave to some other departments of science.
+Had he done so, it is probable that he would have advanced the study a hundred years; that is to say, he would probably have left it at the place where it actually was in 1790.
+So great were his abilities that in one lifetime he made greater additions to human knowledge than all the rest of mankind had made during the preceding thousand years.
+In the month of June, 1752, Franklin made that memorable experiment which immortalized him.
+He flew his kite to the thunder-cloud, practically asking the question of the lightning whether or not it was identical with electricity.
+The lightning came down the wetted twine to his hand, and proclaimed its identity.
+For the next forty years the natural philosophers in both Europe and America only rung the changes upon what was known.
+They flew kites to the clouds; they made and charged Leyden jars, and discharged them through wires and chains and circuits of clasped hands, and studied the attractions and repulsions manifested by electrified bodies; but they added nothing of importance in the way of experiments.
+In 1791 Galvani, a professor of anatomy at Bologna, announced a manifestation of electricity that was new and of a remarkable character, having its origin in the muscles of animals, and so was called animal electricity.
+He had some frogs' legs prepared for eating; by chance they were placed near an electrical machine with which Galvani was experimenting, so that a spark would occasionally pass to the legs, when they would contract as often as a spark passed to them.
+The motion was first observed by his wife, who called his attention to the phenomenon; and he very soon discovered that the thighs of a frog, skinned and suspended, made a very good electroscope.
+While experimenting in this way he made another and more important discovery; namely, that, when the muscles and nerves of the frog's leg were touched by pieces of two different metals, the leg would contract as before.
+Alexander Volta, another Italian professor, who had invented the electrophorus, and was possessed of great experimental skill, now turned his attention to the experiment of Galvani, and very soon discovered that the origin of the electricity that moved the frogs' legs was not in the legs themselves, but in the metals used.
+The first form of the galvanic battery was the result of Volta's investigations, and was called the Voltaic pile.
+This pile consisted of alternate disks of zinc, flannel, and copper, piled one on top of the other in constant succession in that order.
+The flannel was moistened with salt and water, or with diluted sulphuric acid.
+When the first zinc was connected with the last copper by means of a wire, a powerful current of electricity was obtained.
+This form of battery is not in use at all now, as much more efficient means are known for producing electricity; but this in 1800, when it was first made known in England, was very startling, and was one of those surprises which have been so frequent since then in the history of electricity.
+Surprising things were done by Sir Humphry Davy, with a large Voltaic battery.
+Water was decomposed, and the metals potassium and sodium were first separated from their compounds with oxygen.
+Bonaparte had offered a prize of sixty thousand francs "to the person who by his experiments and discoveries should advance the knowledge of electricity and galvanism as much as Franklin and Volta did," and of "three thousand francs for the best experiments which should be made in each year on the galvanic fluid." This latter prize was awarded to Davy.
+After Davy's successes in 1806, there was nothing of importance in an experimental way added to the knowledge of electricity, until 1820, when Oersted of Copenhagen announced that "the conducting wire of a Voltaic circuit acts upon a magnetic needle," and that the needle tends to set itself at right angles to the wire.
+This was a kind of action altogether unexpected.
+This observation was of the utmost importance; and at once the philosophers in Europe and America set themselves to inquire into the new phenomenon.
+The laws of the motion of the magnetic needle when acted upon by a current of electricity traversing a wire were successfully investigated by M. Ampère of the French Academy.
+He observed that whenever a wire through which a current of electricity was passing was held over and parallel with a magnetic needle which was free to move, and therefore pointed to the north, if the current was moving _towards_ the north, the north pole was deflected to the west; if the current was moving towards the south, the south pole of the magnet was deflected towards the west; and that in all cases the magnet tended to set itself at right angles to the current; also that this angular displacement depended upon the strength of the current.
+Thus originated the _galvanometer_, an instrument that not only detects the existence of an electric current, but enables us to determine its direction and its strength.
+Our present knowledge of electrical laws is due, in a very large measure, to observations made with this instrument.
+Of course it has been very much modified, and made almost incredibly sensitive: yet, in all galvanometers, the fundamental principle involved in their structure is that of the action of a current of electricity upon a magnet, which was first noticed by Oersted.

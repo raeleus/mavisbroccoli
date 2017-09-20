@@ -1,0 +1,405 @@
+
+mavis-broccoli.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bacon
+  rotate: true
+  xy: 1495, 1904
+  size: 97, 249
+  orig: 97, 249
+  offset: 0, 0
+  index: -1
+bacon-cooked
+  rotate: false
+  xy: 1, 252
+  size: 97, 249
+  orig: 97, 249
+  offset: 0, 0
+  index: -1
+battery
+  rotate: true
+  xy: 1495, 1857
+  size: 45, 171
+  orig: 45, 171
+  offset: 0, 0
+  index: -1
+bolt
+  rotate: false
+  xy: 430, 737
+  size: 57, 140
+  orig: 57, 140
+  offset: 0, 0
+  index: -1
+broccoli
+  rotate: false
+  xy: 1, 503
+  size: 272, 374
+  orig: 272, 374
+  offset: 0, 0
+  index: -1
+cucumber-slice
+  rotate: false
+  xy: 100, 370
+  size: 131, 131
+  orig: 131, 131
+  offset: 0, 0
+  index: -1
+cucumber_00
+  rotate: false
+  xy: 233, 369
+  size: 40, 132
+  orig: 40, 132
+  offset: 0, 0
+  index: -1
+cucumber_01
+  rotate: false
+  xy: 275, 448
+  size: 40, 132
+  orig: 40, 132
+  offset: 0, 0
+  index: -1
+cucumber_02
+  rotate: false
+  xy: 317, 448
+  size: 40, 132
+  orig: 40, 132
+  offset: 0, 0
+  index: -1
+cucumber_03
+  rotate: false
+  xy: 317, 448
+  size: 40, 132
+  orig: 40, 132
+  offset: 0, 0
+  index: -1
+cucumber_04
+  rotate: false
+  xy: 317, 448
+  size: 40, 132
+  orig: 40, 132
+  offset: 0, 0
+  index: -1
+cucumber_05
+  rotate: false
+  xy: 317, 448
+  size: 40, 132
+  orig: 40, 132
+  offset: 0, 0
+  index: -1
+cucumber_06
+  rotate: false
+  xy: 317, 448
+  size: 40, 132
+  orig: 40, 132
+  offset: 0, 0
+  index: -1
+cucumber_07
+  rotate: false
+  xy: 317, 448
+  size: 40, 132
+  orig: 40, 132
+  offset: 0, 0
+  index: -1
+cucumber_08
+  rotate: false
+  xy: 317, 448
+  size: 40, 132
+  orig: 40, 132
+  offset: 0, 0
+  index: -1
+cucumber_09
+  rotate: false
+  xy: 317, 448
+  size: 40, 132
+  orig: 40, 132
+  offset: 0, 0
+  index: -1
+cucumber_10
+  rotate: false
+  xy: 62, 118
+  size: 39, 132
+  orig: 39, 132
+  offset: 0, 0
+  index: -1
+cucumber_11
+  rotate: false
+  xy: 393, 592
+  size: 40, 132
+  orig: 40, 132
+  offset: 0, 0
+  index: -1
+egg
+  rotate: false
+  xy: 275, 582
+  size: 116, 142
+  orig: 116, 142
+  offset: 0, 0
+  index: -1
+egg-yolk
+  rotate: false
+  xy: 515, 885
+  size: 242, 272
+  orig: 242, 272
+  offset: 0, 0
+  index: -1
+egg_00
+  rotate: false
+  xy: 100, 276
+  size: 115, 92
+  orig: 115, 92
+  offset: 0, 0
+  index: -1
+egg_01
+  rotate: false
+  xy: 974, 1637
+  size: 115, 87
+  orig: 115, 87
+  offset: 0, 0
+  index: -1
+eye-left
+  rotate: true
+  xy: 1668, 1860
+  size: 42, 57
+  orig: 42, 57
+  offset: 0, 0
+  index: -1
+eye-pupil
+  rotate: false
+  xy: 1, 36
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+eye-right
+  rotate: true
+  xy: 1934, 1952
+  size: 49, 67
+  orig: 49, 67
+  offset: 0, 0
+  index: -1
+gas
+  rotate: true
+  xy: 974, 1607
+  size: 28, 62
+  orig: 28, 62
+  offset: 0, 0
+  index: -1
+gear
+  rotate: false
+  xy: 275, 726
+  size: 153, 151
+  orig: 153, 151
+  offset: 0, 0
+  index: -1
+knife
+  rotate: true
+  xy: 820, 1755
+  size: 48, 553
+  orig: 48, 553
+  offset: 0, 0
+  index: -1
+mouth-closed
+  rotate: true
+  xy: 759, 1087
+  size: 70, 17
+  orig: 70, 17
+  offset: 0, 0
+  index: -1
+mouth-open
+  rotate: false
+  xy: 1375, 1768
+  size: 70, 35
+  orig: 70, 35
+  offset: 0, 0
+  index: -1
+nut
+  rotate: false
+  xy: 1091, 1657
+  size: 67, 67
+  orig: 67, 67
+  offset: 0, 0
+  index: -1
+oil-bottle
+  rotate: true
+  xy: 820, 1805
+  size: 196, 673
+  orig: 196, 673
+  offset: 0, 0
+  index: -1
+oil-drop
+  rotate: false
+  xy: 275, 384
+  size: 28, 62
+  orig: 28, 62
+  offset: 0, 0
+  index: -1
+pan
+  rotate: false
+  xy: 1, 1159
+  size: 782, 428
+  orig: 782, 428
+  offset: 0, 0
+  index: -1
+pan-bottom
+  rotate: false
+  xy: 1, 879
+  size: 512, 278
+  orig: 512, 278
+  offset: 0, 0
+  index: -1
+pipe_00
+  rotate: true
+  xy: 1495, 1825
+  size: 30, 150
+  orig: 30, 150
+  offset: 0, 0
+  index: -1
+pipe_01
+  rotate: false
+  xy: 30, 100
+  size: 30, 150
+  orig: 30, 150
+  offset: 0, 0
+  index: -1
+pipe_02
+  rotate: false
+  xy: 30, 100
+  size: 30, 150
+  orig: 30, 150
+  offset: 0, 0
+  index: -1
+pipe_03
+  rotate: false
+  xy: 30, 100
+  size: 30, 150
+  orig: 30, 150
+  offset: 0, 0
+  index: -1
+pipe_04
+  rotate: false
+  xy: 30, 100
+  size: 30, 150
+  orig: 30, 150
+  offset: 0, 0
+  index: -1
+pipe_05
+  rotate: false
+  xy: 30, 100
+  size: 30, 150
+  orig: 30, 150
+  offset: 0, 0
+  index: -1
+pipe_06
+  rotate: false
+  xy: 30, 100
+  size: 30, 150
+  orig: 30, 150
+  offset: 0, 0
+  index: -1
+pipe_07
+  rotate: false
+  xy: 30, 100
+  size: 30, 150
+  orig: 30, 150
+  offset: 0, 0
+  index: -1
+pipe_08
+  rotate: false
+  xy: 30, 100
+  size: 30, 150
+  orig: 30, 150
+  offset: 0, 0
+  index: -1
+pipe_09
+  rotate: false
+  xy: 30, 100
+  size: 30, 150
+  orig: 30, 150
+  offset: 0, 0
+  index: -1
+pipe_10
+  rotate: false
+  xy: 30, 100
+  size: 30, 150
+  orig: 30, 150
+  offset: 0, 0
+  index: -1
+pipe_11
+  rotate: false
+  xy: 30, 100
+  size: 30, 150
+  orig: 30, 150
+  offset: 0, 0
+  index: -1
+pipe_12
+  rotate: false
+  xy: 30, 100
+  size: 30, 150
+  orig: 30, 150
+  offset: 0, 0
+  index: -1
+pipe_13
+  rotate: true
+  xy: 1746, 1913
+  size: 30, 150
+  orig: 30, 150
+  offset: 0, 0
+  index: -1
+plate
+  rotate: false
+  xy: 1, 1589
+  size: 817, 412
+  orig: 817, 412
+  offset: 0, 0
+  index: -1
+tomato-slice
+  rotate: false
+  xy: 820, 1601
+  size: 152, 152
+  orig: 152, 152
+  offset: 0, 0
+  index: -1
+tomato_00
+  rotate: false
+  xy: 785, 1401
+  size: 27, 186
+  orig: 27, 186
+  offset: 0, 0
+  index: -1
+tomato_01
+  rotate: true
+  xy: 1746, 1974
+  size: 27, 186
+  orig: 27, 186
+  offset: 0, 0
+  index: -1
+tomato_02
+  rotate: false
+  xy: 1, 64
+  size: 27, 186
+  orig: 27, 186
+  offset: 0, 0
+  index: -1
+tomato_03
+  rotate: true
+  xy: 974, 1726
+  size: 27, 186
+  orig: 27, 186
+  offset: 0, 0
+  index: -1
+tomato_04
+  rotate: false
+  xy: 785, 1213
+  size: 27, 186
+  orig: 27, 186
+  offset: 0, 0
+  index: -1
+tomato_05
+  rotate: true
+  xy: 1746, 1945
+  size: 27, 186
+  orig: 27, 186
+  offset: 0, 0
+  index: -1

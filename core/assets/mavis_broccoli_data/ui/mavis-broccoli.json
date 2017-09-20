@@ -1,0 +1,138 @@
+{
+com.badlogic.gdx.graphics.g2d.BitmapFont: {
+	cml: {
+		file: font-cml-export.fnt
+	}
+	font: {
+		file: font-export.fnt
+	}
+	subtitle: {
+		file: font-subtitle-export.fnt
+	}
+	title: {
+		file: font-title-export.fnt
+	}
+	title-bold: {
+		file: font-title-bold-export.fnt
+	}
+}
+com.badlogic.gdx.graphics.Color: {
+	label: {
+		r: 0
+		g: 0
+		b: 0
+		a: 1
+	}
+	selected: {
+		r: 0
+		g: 0.6892221
+		b: 1
+		a: 1
+	}
+	text-down: {
+		r: 0.06
+		g: 0.06
+		b: 0.06
+		a: 1
+	}
+	text-over: {
+		r: 0.28333333
+		g: 0.28333333
+		b: 0.28333333
+		a: 1
+	}
+	text-up: {
+		r: 0.18666667
+		g: 0.18666667
+		b: 0.18666667
+		a: 1
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.Skin$TintedDrawable: {
+	selected: {
+		name: white
+		color: selected
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.ImageTextButton$ImageTextButtonStyle: {
+	default: {
+		font: font
+		fontColor: text-up
+		downFontColor: text-down
+		over: white
+		checked: selected
+	}
+	breakfast: {
+		imageUp: icon-brekfast
+		font: font
+		fontColor: text-up
+		downFontColor: text-down
+		over: white
+		checked: selected
+	}
+	salad: {
+		imageUp: icon-salad
+		font: font
+		fontColor: text-up
+		downFontColor: text-down
+		over: white
+		checked: selected
+	}
+	robot: {
+		imageUp: icon-robot
+		font: font
+		fontColor: text-up
+		downFontColor: text-down
+		over: white
+		checked: selected
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.Label$LabelStyle: {
+	default: {
+		font: font
+		fontColor: label
+	}
+	title: {
+		font: title
+		fontColor: label
+	}
+	subtitle: {
+		font: subtitle
+		fontColor: label
+	}
+	title-bold: {
+		font: title-bold
+		fontColor: label
+	}
+	cml: {
+		font: cml
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.ScrollPane$ScrollPaneStyle: {
+	default: {
+		hScrollKnob: scroll-horizontal
+		vScrollKnob: scroll-vertical
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.TextButton$TextButtonStyle: {
+	default: {
+		font: font
+		fontColor: text-up
+		downFontColor: text-down
+		overFontColor: text-over
+		up: button
+		down: button-pressed
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.TextTooltip$TextTooltipStyle: {
+	default: {
+		label: default
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.Window$WindowStyle: {
+	default: {
+		background: window
+		titleFont: subtitle
+	}
+}
+}

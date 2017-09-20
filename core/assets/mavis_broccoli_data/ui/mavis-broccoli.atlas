@@ -1,0 +1,121 @@
+
+mavis-broccoli.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+button
+  rotate: false
+  xy: 596, 838
+  size: 147, 53
+  split: 22, 23, 0, 0
+  pad: 20, 23, 1, 4
+  orig: 147, 53
+  offset: 0, 0
+  index: -1
+button-pressed
+  rotate: false
+  xy: 1, 48
+  size: 147, 53
+  split: 22, 23, 0, 0
+  pad: 20, 23, 3, 2
+  orig: 147, 53
+  offset: 0, 0
+  index: -1
+font-cml-export
+  rotate: false
+  xy: 1, 576
+  size: 319, 315
+  orig: 319, 315
+  offset: 0, 0
+  index: -1
+font-export
+  rotate: false
+  xy: 1, 103
+  size: 180, 181
+  orig: 180, 181
+  offset: 0, 0
+  index: -1
+font-subtitle-export
+  rotate: false
+  xy: 596, 695
+  size: 138, 141
+  orig: 138, 141
+  offset: 0, 0
+  index: -1
+font-title-bold-export
+  rotate: false
+  xy: 322, 619
+  size: 272, 272
+  orig: 272, 272
+  offset: 0, 0
+  index: -1
+font-title-export
+  rotate: false
+  xy: 1, 286
+  size: 288, 288
+  orig: 288, 288
+  offset: 0, 0
+  index: -1
+icon-brekfast
+  rotate: false
+  xy: 745, 846
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+icon-none
+  rotate: false
+  xy: 1, 1
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+icon-robot
+  rotate: false
+  xy: 596, 648
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+icon-salad
+  rotate: false
+  xy: 183, 148
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+scroll-horizontal
+  rotate: false
+  xy: 322, 595
+  size: 146, 22
+  split: 11, 11, 0, 0
+  pad: 0, 0, 0, 0
+  orig: 146, 22
+  offset: 0, 0
+  index: -1
+scroll-vertical
+  rotate: false
+  xy: 291, 428
+  size: 23, 146
+  split: 0, 1, 11, 11
+  pad: 0, 1, 0, 0
+  orig: 23, 146
+  offset: 0, 0
+  index: -1
+white
+  rotate: false
+  xy: 150, 100
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+window
+  rotate: false
+  xy: 183, 195
+  size: 78, 89
+  split: 15, 15, 37, 16
+  pad: 11, 11, 37, 16
+  orig: 78, 89
+  offset: 0, 0
+  index: -1
