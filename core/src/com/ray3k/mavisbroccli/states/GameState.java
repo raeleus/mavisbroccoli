@@ -140,7 +140,7 @@ public class GameState extends State implements InputManager.KeyActionListener {
         
         String text = textFile.readString();
         text = text.replace(' ', '_');
-        lines = new Array<String>(text.split("\\R"));
+        lines = new Array<String>(text.split("\\r\\n"));
         int index = MathUtils.random(lines.size - 1);
         line = lines.get(index);
         lines.removeIndex(index);
